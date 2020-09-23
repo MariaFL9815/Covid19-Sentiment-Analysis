@@ -1660,3 +1660,959 @@
 1658,23.85,brave eat fear fear eats re truly alive unless re pushing risk eating fear robin shorma fridaymotivation robinsharma covid 19,3203,2,positive,0.45
 1659,23.916666666666668,quite difficult days us together don t future will faith bad times will pass will back running full throttle stayhomestaysafe covid 19 aviation pilot vlog,1,0,negative,-0.16999999999999996
 1660,23.95,dowfutures sgxnifty covid 19 lockdown2 worldwide corona cases crossed 2179000 deaths 145400 big jump almost 50 top countries number going still dow future showing 700 points sgx showing 80 points markets will open higher book profits scared,63,0,positive,0.15
+"created_at": "Wed Sep 23 14:40:41 +0000 2020",
+           "id": 1308778317760393231,
+           "id_str": "1308778317760393231",
+           "text": "@MattHancock Not clear at all. Whitty &amp; Valence say we're heading for 50 000 deaths a day so why is knocking 1 hour… https://t.co/hUKut8ENXV",
+           "truncated": true,
+           "entities": {
+               "hashtags": [],
+               "symbols": [],
+               "user_mentions": [
+                   {
+                       "screen_name": "MattHancock",
+                       "name": "Matt Hancock",
+                       "id": 19825835,
+                       "id_str": "19825835",
+                       "indices": [
+                           0,
+                           12
+                       ]
+                   }
+               ],
+               "urls": [
+                   {
+                       "url": "https://t.co/hUKut8ENXV",
+                       "expanded_url": "https://twitter.com/i/web/status/1308778317760393231",
+                       "display_url": "twitter.com/i/web/status/1…",
+                       "indices": [
+                           121,
+                           144
+                       ]
+                   }
+               ]
+           },
+           "metadata": {
+               "iso_language_code": "en",
+               "result_type": "recent"
+           },
+           "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+           "in_reply_to_status_id": 1308484040161460225,
+           "in_reply_to_status_id_str": "1308484040161460225",
+           "in_reply_to_user_id": 19825835,
+           "in_reply_to_user_id_str": "19825835",
+           "in_reply_to_screen_name": "MattHancock",
+           "user": {
+               "id": 954294595,
+               "id_str": "954294595",
+               "name": "Mary Miller",
+               "screen_name": "million_mary",
+               "location": "",
+               "description": "",
+               "url": null,
+               "entities": {
+                   "description": {
+                       "urls": []
+                   }
+               },
+               "protected": false,
+               "followers_count": 4,
+               "friends_count": 48,
+               "listed_count": 0,
+               "created_at": "Sat Nov 17 20:40:53 +0000 2012",
+               "favourites_count": 2588,
+               "utc_offset": null,
+               "time_zone": null,
+               "geo_enabled": false,
+               "verified": false,
+               "statuses_count": 761,
+               "lang": null,
+               "contributors_enabled": false,
+               "is_translator": false,
+               "is_translation_enabled": false,
+               "profile_background_color": "C0DEED",
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile": false,
+               "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+               "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+               "profile_link_color": "1DA1F2",
+               "profile_sidebar_border_color": "C0DEED",
+               "profile_sidebar_fill_color": "DDEEF6",
+               "profile_text_color": "333333",
+               "profile_use_background_image": true,
+               "has_extended_profile": false,
+               "default_profile": true,
+               "default_profile_image": true,
+               "following": false,
+               "follow_request_sent": false,
+               "notifications": false,
+               "translator_type": "none"
+           },
+           "geo": null,
+           "coordinates": null,
+           "place": null,
+           "contributors": null,
+           "is_quote_status": false,
+           "retweet_count": 0,
+           "favorite_count": 0,
+           "favorited": false,
+           "retweeted": false,
+           "lang": "en"
+       },
+       {
+           "created_at": "Wed Sep 23 11:40:26 +0000 2020",
+           "id": 1308732955922173953,
+           "id_str": "1308732955922173953",
+           "text": "DT Maria Caulfield MP #StayalertControlthevirus: If you are a community group or organisation, Wealden district cou… https://t.co/84JhTe4e5X",
+           "truncated": true,
+           "entities": {
+               "hashtags": [
+                   {
+                       "text": "StayalertControlthevirus",
+                       "indices": [
+                           22,
+                           47
+                       ]
+                   }
+               ],
+               "symbols": [],
+               "user_mentions": [],
+               "urls": [
+                   {
+                       "url": "https://t.co/84JhTe4e5X",
+                       "expanded_url": "https://twitter.com/i/web/status/1308732955922173953",
+                       "display_url": "twitter.com/i/web/status/1…",
+                       "indices": [
+                           117,
+                           140
+                       ]
+                   }
+               ]
+           },
+           "metadata": {
+               "iso_language_code": "en",
+               "result_type": "recent"
+           },
+           "source": "<a href=\"http://www.politwoops.com/\" rel=\"nofollow\">Politwoops</a>",
+           "in_reply_to_status_id": null,
+           "in_reply_to_status_id_str": null,
+           "in_reply_to_user_id": null,
+           "in_reply_to_user_id_str": null,
+           "in_reply_to_screen_name": null,
+           "user": {
+               "id": 1066949670,
+               "id_str": "1066949670",
+               "name": "Tweets MPs Delete",
+               "screen_name": "deletedbyMPs",
+               "location": "UK",
+               "description": "Pulling updates from @politwoops UK feed of deleted MPs tweets onto your timelines. We're back! Complaints to @julesmattsson",
+               "url": "https://t.co/ekaT92EzTE",
+               "entities": {
+                   "url": {
+                       "urls": [
+                           {
+                               "url": "https://t.co/ekaT92EzTE",
+                               "expanded_url": "http://www.politwoops.co.uk/",
+                               "display_url": "politwoops.co.uk",
+                               "indices": [
+                                   0,
+                                   23
+                               ]
+                           }
+                       ]
+                   },
+                   "description": {
+                       "urls": []
+                   }
+               },
+               "protected": false,
+               "followers_count": 31323,
+               "friends_count": 27,
+               "listed_count": 319,
+               "created_at": "Sun Jan 06 23:18:57 +0000 2013",
+               "favourites_count": 5,
+               "utc_offset": null,
+               "time_zone": null,
+               "geo_enabled": false,
+               "verified": false,
+               "statuses_count": 218167,
+               "lang": null,
+               "contributors_enabled": false,
+               "is_translator": false,
+               "is_translation_enabled": false,
+               "profile_background_color": "C0DEED",
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile": false,
+               "profile_image_url": "http://pbs.twimg.com/profile_images/3075370229/b241e059e0359e3cf4808e3e7c6f0fc8_normal.jpeg",
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/3075370229/b241e059e0359e3cf4808e3e7c6f0fc8_normal.jpeg",
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/1066949670/1469111778",
+               "profile_link_color": "1DA1F2",
+               "profile_sidebar_border_color": "C0DEED",
+               "profile_sidebar_fill_color": "DDEEF6",
+               "profile_text_color": "333333",
+               "profile_use_background_image": true,
+               "has_extended_profile": false,
+               "default_profile": true,
+               "default_profile_image": false,
+               "following": false,
+               "follow_request_sent": false,
+               "notifications": false,
+               "translator_type": "none"
+           },
+           "geo": null,
+           "coordinates": null,
+           "place": null,
+           "contributors": null,
+           "is_quote_status": false,
+           "retweet_count": 0,
+           "favorite_count": 0,
+           "favorited": false,
+           "retweeted": false,
+           "possibly_sensitive": false,
+           "lang": "en"
+       },
+       {
+           "created_at": "Tue Sep 22 19:38:55 +0000 2020",
+           "id": 1308490981638057984,
+           "id_str": "1308490981638057984",
+           "text": "DT Maria Caulfield MP #StayalertControlthevirus: RT RNLI: Out On A Shout: Launched from Newhaven, East Sussex about… https://t.co/TrCSjeEVip",
+           "truncated": true,
+           "entities": {
+               "hashtags": [
+                   {
+                       "text": "StayalertControlthevirus",
+                       "indices": [
+                           22,
+                           47
+                       ]
+                   }
+               ],
+               "symbols": [],
+               "user_mentions": [],
+               "urls": [
+                   {
+                       "url": "https://t.co/TrCSjeEVip",
+                       "expanded_url": "https://twitter.com/i/web/status/1308490981638057984",
+                       "display_url": "twitter.com/i/web/status/1…",
+                       "indices": [
+                           117,
+                           140
+                       ]
+                   }
+               ]
+           },
+           "metadata": {
+               "iso_language_code": "en",
+               "result_type": "recent"
+           },
+           "source": "<a href=\"http://www.politwoops.com/\" rel=\"nofollow\">Politwoops</a>",
+           "in_reply_to_status_id": null,
+           "in_reply_to_status_id_str": null,
+           "in_reply_to_user_id": null,
+           "in_reply_to_user_id_str": null,
+           "in_reply_to_screen_name": null,
+           "user": {
+               "id": 1066949670,
+               "id_str": "1066949670",
+               "name": "Tweets MPs Delete",
+               "screen_name": "deletedbyMPs",
+               "location": "UK",
+               "description": "Pulling updates from @politwoops UK feed of deleted MPs tweets onto your timelines. We're back! Complaints to @julesmattsson",
+               "url": "https://t.co/ekaT92EzTE",
+               "entities": {
+                   "url": {
+                       "urls": [
+                           {
+                               "url": "https://t.co/ekaT92EzTE",
+                               "expanded_url": "http://www.politwoops.co.uk/",
+                               "display_url": "politwoops.co.uk",
+                               "indices": [
+                                   0,
+                                   23
+                               ]
+                           }
+                       ]
+                   },
+                   "description": {
+                       "urls": []
+                   }
+               },
+               "protected": false,
+               "followers_count": 31323,
+               "friends_count": 27,
+               "listed_count": 319,
+               "created_at": "Sun Jan 06 23:18:57 +0000 2013",
+               "favourites_count": 5,
+               "utc_offset": null,
+               "time_zone": null,
+               "geo_enabled": false,
+               "verified": false,
+               "statuses_count": 218167,
+               "lang": null,
+               "contributors_enabled": false,
+               "is_translator": false,
+               "is_translation_enabled": false,
+               "profile_background_color": "C0DEED",
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile": false,
+               "profile_image_url": "http://pbs.twimg.com/profile_images/3075370229/b241e059e0359e3cf4808e3e7c6f0fc8_normal.jpeg",
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/3075370229/b241e059e0359e3cf4808e3e7c6f0fc8_normal.jpeg",
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/1066949670/1469111778",
+               "profile_link_color": "1DA1F2",
+               "profile_sidebar_border_color": "C0DEED",
+               "profile_sidebar_fill_color": "DDEEF6",
+               "profile_text_color": "333333",
+               "profile_use_background_image": true,
+               "has_extended_profile": false,
+               "default_profile": true,
+               "default_profile_image": false,
+               "following": false,
+               "follow_request_sent": false,
+               "notifications": false,
+               "translator_type": "none"
+           },
+           "geo": null,
+           "coordinates": null,
+           "place": null,
+           "contributors": null,
+           "is_quote_status": false,
+           "retweet_count": 0,
+           "favorite_count": 0,
+           "favorited": false,
+           "retweeted": false,
+           "possibly_sensitive": false,
+           "lang": "en"
+       },
+       {
+           "created_at": "Thu Sep 17 13:43:30 +0000 2020",
+           "id": 1306589598483492869,
+           "id_str": "1306589598483492869",
+           "text": "RT @deletedbyMPs: DT Maria Caulfield MP #StayalertControlthevirus: Be kind to yourself, look after your mental health with the ten tips fro…",
+           "truncated": false,
+           "entities": {
+               "hashtags": [
+                   {
+                       "text": "StayalertControlthevirus",
+                       "indices": [
+                           40,
+                           65
+                       ]
+                   }
+               ],
+               "symbols": [],
+               "user_mentions": [
+                   {
+                       "screen_name": "deletedbyMPs",
+                       "name": "Tweets MPs Delete",
+                       "id": 1066949670,
+                       "id_str": "1066949670",
+                       "indices": [
+                           3,
+                           16
+                       ]
+                   }
+               ],
+               "urls": []
+           },
+           "metadata": {
+               "iso_language_code": "en",
+               "result_type": "recent"
+           },
+           "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+           "in_reply_to_status_id": null,
+           "in_reply_to_status_id_str": null,
+           "in_reply_to_user_id": null,
+           "in_reply_to_user_id_str": null,
+           "in_reply_to_screen_name": null,
+           "user": {
+               "id": 491438028,
+               "id_str": "491438028",
+               "name": "Ann J. Terry",
+               "screen_name": "AnnJTerry",
+               "location": "",
+               "description": "",
+               "url": null,
+               "entities": {
+                   "description": {
+                       "urls": []
+                   }
+               },
+               "protected": false,
+               "followers_count": 84,
+               "friends_count": 230,
+               "listed_count": 0,
+               "created_at": "Mon Feb 13 16:48:12 +0000 2012",
+               "favourites_count": 60152,
+               "utc_offset": null,
+               "time_zone": null,
+               "geo_enabled": false,
+               "verified": false,
+               "statuses_count": 57168,
+               "lang": null,
+               "contributors_enabled": false,
+               "is_translator": false,
+               "is_translation_enabled": false,
+               "profile_background_color": "C0DEED",
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile": false,
+               "profile_image_url": "http://pbs.twimg.com/profile_images/1280531451772047360/ARJWo3hp_normal.jpg",
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280531451772047360/ARJWo3hp_normal.jpg",
+               "profile_link_color": "1DA1F2",
+               "profile_sidebar_border_color": "C0DEED",
+               "profile_sidebar_fill_color": "DDEEF6",
+               "profile_text_color": "333333",
+               "profile_use_background_image": true,
+               "has_extended_profile": false,
+               "default_profile": true,
+               "default_profile_image": false,
+               "following": false,
+               "follow_request_sent": false,
+               "notifications": false,
+               "translator_type": "none"
+           },
+           "geo": null,
+           "coordinates": null,
+           "place": null,
+           "contributors": null,
+           "retweeted_status": {
+               "created_at": "Thu Sep 17 13:18:28 +0000 2020",
+               "id": 1306583300350279680,
+               "id_str": "1306583300350279680",
+               "text": "DT Maria Caulfield MP #StayalertControlthevirus: Be kind to yourself, look after your mental health with the ten ti… https://t.co/tuNP5IGpam",
+               "truncated": true,
+               "entities": {
+                   "hashtags": [
+                       {
+                           "text": "StayalertControlthevirus",
+                           "indices": [
+                               22,
+                               47
+                           ]
+                       }
+                   ],
+                   "symbols": [],
+                   "user_mentions": [],
+                   "urls": [
+                       {
+                           "url": "https://t.co/tuNP5IGpam",
+                           "expanded_url": "https://twitter.com/i/web/status/1306583300350279680",
+                           "display_url": "twitter.com/i/web/status/1…",
+                           "indices": [
+                               117,
+                               140
+                           ]
+                       }
+                   ]
+               },
+               "metadata": {
+                   "iso_language_code": "en",
+                   "result_type": "recent"
+               },
+               "source": "<a href=\"http://www.politwoops.com/\" rel=\"nofollow\">Politwoops</a>",
+               "in_reply_to_status_id": null,
+               "in_reply_to_status_id_str": null,
+               "in_reply_to_user_id": null,
+               "in_reply_to_user_id_str": null,
+               "in_reply_to_screen_name": null,
+               "user": {
+                   "id": 1066949670,
+                   "id_str": "1066949670",
+                   "name": "Tweets MPs Delete",
+                   "screen_name": "deletedbyMPs",
+                   "location": "UK",
+                   "description": "Pulling updates from @politwoops UK feed of deleted MPs tweets onto your timelines. We're back! Complaints to @julesmattsson",
+                   "url": "https://t.co/ekaT92EzTE",
+                   "entities": {
+                       "url": {
+                           "urls": [
+                               {
+                                   "url": "https://t.co/ekaT92EzTE",
+                                   "expanded_url": "http://www.politwoops.co.uk/",
+                                   "display_url": "politwoops.co.uk",
+                                   "indices": [
+                                       0,
+                                       23
+                                   ]
+                               }
+                           ]
+                       },
+                       "description": {
+                           "urls": []
+                       }
+                   },
+                   "protected": false,
+                   "followers_count": 31323,
+                   "friends_count": 27,
+                   "listed_count": 319,
+                   "created_at": "Sun Jan 06 23:18:57 +0000 2013",
+                   "favourites_count": 5,
+                   "utc_offset": null,
+                   "time_zone": null,
+                   "geo_enabled": false,
+                   "verified": false,
+                   "statuses_count": 218167,
+                   "lang": null,
+                   "contributors_enabled": false,
+                   "is_translator": false,
+                   "is_translation_enabled": false,
+                   "profile_background_color": "C0DEED",
+                   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                   "profile_background_tile": false,
+                   "profile_image_url": "http://pbs.twimg.com/profile_images/3075370229/b241e059e0359e3cf4808e3e7c6f0fc8_normal.jpeg",
+                   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3075370229/b241e059e0359e3cf4808e3e7c6f0fc8_normal.jpeg",
+                   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1066949670/1469111778",
+                   "profile_link_color": "1DA1F2",
+                   "profile_sidebar_border_color": "C0DEED",
+                   "profile_sidebar_fill_color": "DDEEF6",
+                   "profile_text_color": "333333",
+                   "profile_use_background_image": true,
+                   "has_extended_profile": false,
+                   "default_profile": true,
+                   "default_profile_image": false,
+                   "following": false,
+                   "follow_request_sent": false,
+                   "notifications": false,
+                   "translator_type": "none"
+               },
+               "geo": null,
+               "coordinates": null,
+               "place": null,
+               "contributors": null,
+               "is_quote_status": false,
+               "retweet_count": 1,
+               "favorite_count": 0,
+               "favorited": false,
+               "retweeted": false,
+               "possibly_sensitive": false,
+               "lang": "en"
+           },
+           "is_quote_status": false,
+           "retweet_count": 1,
+           "favorite_count": 0,
+           "favorited": false,
+           "retweeted": false,
+           "possibly_sensitive": false,
+           "lang": "en"
+       },
+       {
+           "created_at": "Thu Sep 17 13:18:28 +0000 2020",
+           "id": 1306583300350279680,
+           "id_str": "1306583300350279680",
+           "text": "DT Maria Caulfield MP #StayalertControlthevirus: Be kind to yourself, look after your mental health with the ten ti… https://t.co/tuNP5IGpam",
+           "truncated": true,
+           "entities": {
+               "hashtags": [
+                   {
+                       "text": "StayalertControlthevirus",
+                       "indices": [
+                           22,
+                           47
+                       ]
+                   }
+               ],
+               "symbols": [],
+               "user_mentions": [],
+               "urls": [
+                   {
+                       "url": "https://t.co/tuNP5IGpam",
+                       "expanded_url": "https://twitter.com/i/web/status/1306583300350279680",
+                       "display_url": "twitter.com/i/web/status/1…",
+                       "indices": [
+                           117,
+                           140
+                       ]
+                   }
+               ]
+           },
+           "metadata": {
+               "iso_language_code": "en",
+               "result_type": "recent"
+           },
+           "source": "<a href=\"http://www.politwoops.com/\" rel=\"nofollow\">Politwoops</a>",
+           "in_reply_to_status_id": null,
+           "in_reply_to_status_id_str": null,
+           "in_reply_to_user_id": null,
+           "in_reply_to_user_id_str": null,
+           "in_reply_to_screen_name": null,
+           "user": {
+               "id": 1066949670,
+               "id_str": "1066949670",
+               "name": "Tweets MPs Delete",
+               "screen_name": "deletedbyMPs",
+               "location": "UK",
+               "description": "Pulling updates from @politwoops UK feed of deleted MPs tweets onto your timelines. We're back! Complaints to @julesmattsson",
+               "url": "https://t.co/ekaT92EzTE",
+               "entities": {
+                   "url": {
+                       "urls": [
+                           {
+                               "url": "https://t.co/ekaT92EzTE",
+                               "expanded_url": "http://www.politwoops.co.uk/",
+                               "display_url": "politwoops.co.uk",
+                               "indices": [
+                                   0,
+                                   23
+                               ]
+                           }
+                       ]
+                   },
+                   "description": {
+                       "urls": []
+                   }
+               },
+               "protected": false,
+               "followers_count": 31323,
+               "friends_count": 27,
+               "listed_count": 319,
+               "created_at": "Sun Jan 06 23:18:57 +0000 2013",
+               "favourites_count": 5,
+               "utc_offset": null,
+               "time_zone": null,
+               "geo_enabled": false,
+               "verified": false,
+               "statuses_count": 218167,
+               "lang": null,
+               "contributors_enabled": false,
+               "is_translator": false,
+               "is_translation_enabled": false,
+               "profile_background_color": "C0DEED",
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile": false,
+               "profile_image_url": "http://pbs.twimg.com/profile_images/3075370229/b241e059e0359e3cf4808e3e7c6f0fc8_normal.jpeg",
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/3075370229/b241e059e0359e3cf4808e3e7c6f0fc8_normal.jpeg",
+               "profile_banner_url": "https://pbs.twimg.com/profile_banners/1066949670/1469111778",
+               "profile_link_color": "1DA1F2",
+               "profile_sidebar_border_color": "C0DEED",
+               "profile_sidebar_fill_color": "DDEEF6",
+               "profile_text_color": "333333",
+               "profile_use_background_image": true,
+               "has_extended_profile": false,
+               "default_profile": true,
+               "default_profile_image": false,
+               "following": false,
+               "follow_request_sent": false,
+               "notifications": false,
+               "translator_type": "none"
+           },
+           "geo": null,
+           "coordinates": null,
+           "place": null,
+           "contributors": null,
+           "is_quote_status": false,
+           "retweet_count": 1,
+           "favorite_count": 0,
+           "favorited": false,
+           "retweeted": false,
+           "possibly_sensitive": false,
+           "lang": "en"
+       },
+       {
+           "created_at": "Tue Sep 15 18:25:08 +0000 2020",
+           "id": 1305935697929555969,
+           "id_str": "1305935697929555969",
+           "text": "So #stayalertcontrolthevirus didn’t age too well as a slogan and a policy did it?",
+           "truncated": false,
+           "entities": {
+               "hashtags": [
+                   {
+                       "text": "stayalertcontrolthevirus",
+                       "indices": [
+                           3,
+                           28
+                       ]
+                   }
+               ],
+               "symbols": [],
+               "user_mentions": [],
+               "urls": []
+           },
+           "metadata": {
+               "iso_language_code": "en",
+               "result_type": "recent"
+           },
+           "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+           "in_reply_to_status_id": null,
+           "in_reply_to_status_id_str": null,
+           "in_reply_to_user_id": null,
+           "in_reply_to_user_id_str": null,
+           "in_reply_to_screen_name": null,
+           "user": {
+               "id": 150414324,
+               "id_str": "150414324",
+               "name": "Sonia Joshi",
+               "screen_name": "drssj",
+               "location": "",
+               "description": "",
+               "url": null,
+               "entities": {
+                   "description": {
+                       "urls": []
+                   }
+               },
+               "protected": false,
+               "followers_count": 101,
+               "friends_count": 660,
+               "listed_count": 4,
+               "created_at": "Mon May 31 21:52:45 +0000 2010",
+               "favourites_count": 13768,
+               "utc_offset": null,
+               "time_zone": null,
+               "geo_enabled": true,
+               "verified": false,
+               "statuses_count": 8244,
+               "lang": null,
+               "contributors_enabled": false,
+               "is_translator": false,
+               "is_translation_enabled": false,
+               "profile_background_color": "C0DEED",
+               "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile": false,
+               "profile_image_url": "http://pbs.twimg.com/profile_images/807734523807076352/_g1DZirn_normal.jpg",
+               "profile_image_url_https": "https://pbs.twimg.com/profile_images/807734523807076352/_g1DZirn_normal.jpg",
+               "profile_link_color": "1DA1F2",
+               "profile_sidebar_border_color": "C0DEED",
+               "profile_sidebar_fill_color": "DDEEF6",
+               "profile_text_color": "333333",
+               "profile_use_background_image": true,
+               "has_extended_profile": false,
+               "default_profile": true,
+               "default_profile_image": false,
+               "following": false,
+               "follow_request_sent": false,
+               "notifications": false,
+               "translator_type": "none"
+           },
+           "geo": null,
+           "coordinates": null,
+           "place": null,
+           "contributors": null,
+           "is_quote_status": false,
+           "retweet_count": 0,
+           "favorite_count": 1,
+           "favorited": false,
+           "retweeted": false,
+           "lang": "en"
+       }
+   ],
+   "search_metadata": {
+       "completed_in": 0.047,
+       "max_id": 1308778317760393231,
+       "max_id_str": "1308778317760393231",
+       "next_results": "?max_id=1305935697929555968&q=stayalertcontrolthevirus&lang=en&include_entities=1",
+       "query": "stayalertcontrolthevirus",
+       "refresh_url": "?since_id=1308778317760393231&q=stayalertcontrolthevirus&lang=en&include_entities=1",
+       "count": 15,
+       "since_id": 0,
+       "since_id_str": "0"
+   }
+}
+{
+    "statuses": [
+        {
+            "created_at": "Wed Sep 23 14:40:41 +0000 2020",
+            "id": 1308778317760393231,
+            "id_str": "1308778317760393231",
+            "text": "@MattHancock Not clear at all. Whitty &amp; Valence say we're heading for 50 000 deaths a day so why is knocking 1 hour… https://t.co/hUKut8ENXV",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MattHancock",
+                        "name": "Matt Hancock",
+                        "id": 19825835,
+                        "id_str": "19825835",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/hUKut8ENXV",
+                        "expanded_url": "https://twitter.com/i/web/status/1308778317760393231",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1308484040161460225,
+            "in_reply_to_status_id_str": "1308484040161460225",
+            "in_reply_to_user_id": 19825835,
+            "in_reply_to_user_id_str": "19825835",
+            "in_reply_to_screen_name": "MattHancock",
+            "user": {
+                "id": 954294595,
+                "id_str": "954294595",
+                "name": "Mary Miller",
+                "screen_name": "million_mary",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4,
+                "friends_count": 48,
+                "listed_count": 0,
+                "created_at": "Sat Nov 17 20:40:53 +0000 2012",
+                "favourites_count": 2595,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 762,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Sep 15 18:25:08 +0000 2020",
+            "id": 1305935697929555969,
+            "id_str": "1305935697929555969",
+            "text": "So #stayalertcontrolthevirus didn’t age too well as a slogan and a policy did it?",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "stayalertcontrolthevirus",
+                        "indices": [
+                            3,
+                            28
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 150414324,
+                "id_str": "150414324",
+                "name": "Sonia Joshi",
+                "screen_name": "drssj",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 103,
+                "friends_count": 660,
+                "listed_count": 4,
+                "created_at": "Mon May 31 21:52:45 +0000 2010",
+                "favourites_count": 13771,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 8244,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/807734523807076352/_g1DZirn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/807734523807076352/_g1DZirn_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.035,
+        "max_id": 1308778317760393231,
+        "max_id_str": "1308778317760393231",
+        "next_results": "?max_id=1305935697929555968&q=stayalertcontrolthevirus&lang=en&include_entities=1",
+        "query": "stayalertcontrolthevirus",
+        "refresh_url": "?since_id=1308778317760393231&q=stayalertcontrolthevirus&lang=en&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
