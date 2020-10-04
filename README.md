@@ -10,8 +10,7 @@ Phase 5 : 1–30 June
 We will be analysing the tweets on 16th April,2020 i.e a day after Phase-2 was declared to see the sentiment of the people.   
 
 # Data Collection :
-For this project i have obtained the dataset from Kaggle :    
-https://www.kaggle.com/smid80/coronavirus-covid19-tweets-late-april?select=2020-04-16+Coronavirus+Tweets.CSV.   
+For this project i have obtained the dataset from  the twitter API
 
 # Visualization :
 * Word Cloud
@@ -29,13 +28,3 @@ The following files are required for deployment :
 * Procfile
 * requirements.txt 
 * setup.sh
-
-![alt text](https://github.com/kartikmohan123/Covid19-Sentiment-Analysis/blob/master/webapp-1.JPG)
-
-![alt text](https://github.com/kartikmohan123/Covid19-Sentiment-Analysis/blob/master/webapp-2.JPG)
-## TextBlob is used to predict the sentiment as Positive, Negative or Neutral.
-
-
-
-### You can also find the notebook on Kaggle :
-https://www.kaggle.com/kartikmohan1999/covid19-sentiment-analysis
